@@ -1,0 +1,4 @@
+names: ["affected"] 
+nc: 1
+train: ../Dataset/Output/newDataset/images/train
+val: ../Dataset/Output/newDataset/images/val
